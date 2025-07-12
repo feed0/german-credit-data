@@ -1,0 +1,59 @@
+label,description,column_label
+A11,... < 0 DM,A1
+A12,0 <= ... < 200 DM,A1
+A13,... >= 200 DM/salary assignments for at least 1 year,A1
+A14,no checking account,A1
+A30,no credits taken/all credits paid back duly,A3
+A31,all credits at this bank paid back duly,A3
+A32,existing credits paid back duly till now,A3
+A33,delay in paying off in the past,A3
+A34,critical account/other credits existing (not at this bank),A3
+A40,car (new),A4
+A41,car (used),A4
+A42,furniture/equipment,A4
+A43,radio/television,A4
+A44,domestic appliances,A4
+A45,repairs,A4
+A46,education,A4
+A47,(vacation - does not exist?),A4
+A48,retraining,A4
+A49,business,A4
+A410,others,A4
+A61,< 100 DM,A6
+A62,100 <= ... < 500 DM,A6
+A63,500 <= ... < 1000 DM,A6
+A64,>= 1000 DM,A6
+A65,unknown/no savings account,A6
+A71,unemployed,A7
+A72,... < 1 year,A7
+A73,1 <= ... < 4 years,A7
+A74,4  <= ... < 7 years,A7
+A75,.. >= 7 years,A7
+A91,male - divorced/separated,A9
+A92,female - divorced/separated/married,A9
+A93,male - single,A9
+A94,male - married/widowed,A9
+A95,female - single,A9
+A101,none,A10
+A102,co-applicant,A10
+A103,guarantor,A10
+A121,real estate,A12
+A122,if not A121 : building society savings agreement/life insurance,A12
+A123,if not A121/A122 : car or other not in attribute 6,A12
+A124,unknown/no property,A12
+A141,bank,A14
+A142,stores,A14
+A143,none,A14
+A151,rent,A15
+A152,own,A15
+A153,for free,A15
+A171,unemployed/unskilled  - non-resident,A17
+A172,unskilled - resident,A17
+A173,skilled employee/official,A17
+A174,management/self-employed/highly qualified employee/officer,A17
+A191,none,A19
+A192,yes,A19
+A201,yes,A20
+A202,no,A20
+1,good,T1
+2,bad,T1
