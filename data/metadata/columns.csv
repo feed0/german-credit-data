@@ -19,4 +19,4 @@ A17,category,Job
 A18,int64,Number of people being liable to provide maintenance for
 A19,bool,Telephone
 A20,bool,Foreign worker
-T1,bool,Credit quality
+T1,bool,Is good credit
