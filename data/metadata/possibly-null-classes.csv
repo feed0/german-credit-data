@@ -1,0 +1,7 @@
+column_label,column_description,class_label,class_description
+A1,Status of existing checking account,A14,no checking account
+A4,Purpose,A410,others
+A6,Savings account/bonds,A65,unknown/no savings account
+A10,Other debtors / guarantors,A101,none
+A12,Property,A124,unknown/no property
+A14,Other installment plans,A143,none
