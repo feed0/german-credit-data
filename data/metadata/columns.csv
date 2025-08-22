@@ -1,6 +1,6 @@
 label,dtype,description
 A1,category,Status of existing checking account
-A2,float64,Duration in month
+A2,int64,Duration in month
 A3,category,Credit history
 A4,category,Purpose
 A5,float64,Credit amount
@@ -9,9 +9,9 @@ A7,category,Present employment since
 A8,ordinal,Installment rate in percentage of disposable income
 A9,category,Personal status and sex
 A10,category,Other debtors / guarantors
-A11,float64,Present residence since
+A11,int64,Present residence since
 A12,category,Property
-A13,float64,Age in years
+A13,int64,Age in years
 A14,category,Other installment plans
 A15,category,Housing
 A16,int64,Number of existing credits at this bank
