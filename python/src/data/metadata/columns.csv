@@ -1,22 +1,22 @@
 label,dtype,description
-A1,category,Status of existing checking account
-A2,int64,Duration in month
-A3,category,Credit history
-A4,category,Purpose
-A5,float64,Credit amount
-A6,category,Savings account/bonds
-A7,category,Present employment since
-A8,ordinal,Installment rate in percentage of disposable income
-A9,category,Personal status and sex
-A10,category,Other debtors / guarantors
-A11,int64,Present residence since
-A12,category,Property
-A13,int64,Age in years
-A14,category,Other installment plans
-A15,category,Housing
-A16,int64,Number of existing credits at this bank
-A17,category,Job
-A18,int64,Number of people being liable to provide maintenance for
-A19,bool,Telephone
-A20,bool,Foreign worker
-T1,bool,Is good credit
+A1 - Status of existing checking account,category,Status of existing checking account
+A2 - Duration in month,int64,Duration in month
+A3 - Credit history,category,Credit history
+A4 - Purpose,category,Purpose
+A5 - Credit amount,int64,Credit amount
+A6 - Savings account/bonds,category,Savings account/bonds
+A7 - Present employment since,category,Present employment since
+A8 - Installment rate in percentage of disposable income,category,Installment rate in percentage of disposable income
+A9 - Personal status and sex,category,Personal status and sex
+A10 - Other debtors/guarantors,category,Other debtors/guarantors
+A11 - Present residence since,int64,Present residence since
+A12 - Property,category,Property
+A13 - Age in years,int64,Age in years
+A14 - Other installment plans,category,Other installment plans
+A15 - Housing,category,Housing
+A16 - Number of existing credits at this bank,int64,Number of existing credits at this bank
+A17 - Job,category,Job
+A18 - Number of people being liable to provide maintenance for,int64,Number of people being liable to provide maintenance for
+A19 - Telephone,bool,Telephone
+A20 - Foreign worker,bool,Foreign worker
+T1 - Is good credit,bool,Is good credit
